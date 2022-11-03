@@ -1,0 +1,1 @@
+Data Source=TACLOBAN,1433;Network Library=DBMSSOCN;Initial Catalog=vehicledb;User ID=admin;Password=admin;

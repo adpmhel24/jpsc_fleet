@@ -1,0 +1,1 @@
+Data Source=192.168.13.2,1433;Network Library=DBMSSOCN;Initial Catalog=vehicledb;User ID=admin;Password=serveradmin;

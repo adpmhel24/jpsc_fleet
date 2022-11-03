@@ -1,0 +1,4 @@
+Data Source=192.168.9.8,1433;Network Library=DBMSSOCN;Initial Catalog=fleetwhse;User ID=user1;Password=JPSC@123;
+192.168.9.8
+Data Source=192.168.9.8,1433;Network Library=DBMSSOCN;Initial Catalog=db_for_ai;User ID=user1;Password=JPSC@123;
+122.54.198.84:83

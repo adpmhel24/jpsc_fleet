@@ -1,0 +1,95 @@
+===Fleet Admin Account===
+admin
+1.0
+
+
+===CALAMBA===
+
+Database: 
+vehicledb
+admin
+serveradmin
+
+IP Address: 192.168.12.130
+Anydesk: calamba-server@ad
+connection string text file: connectionstringcal.txt
+
+
+
+===C3 MANILA====
+
+Database: 
+vehicledb
+admin
+serveradmin
+
+IP Address: 192.168.12.3
+Anydesk: desktop-qltn21p@ad
+connection string text file: connectionstringmnl.txt
+
+
+
+===PAGBILAO===
+
+Database: 
+vehicledb
+admin
+serveradmin
+
+IP Address: 192.168.13.2
+Anydesk: desktop-qltn21p@ad
+connection string text file: connectionstringpgb.txt
+
+
+
+===MILAOR===
+
+Database: 
+vehicledb
+admin
+serveradmin
+
+IP Address: 192.168.13.131
+Anydesk: milaor-server@ad
+connection string text file: connectionstringmil.txt
+
+
+
+===DAVAO===
+
+Database: 
+vehicledb
+admin
+serveradmin
+
+IP Address: 192.168.13.131
+Anydesk: milaor-server@ad
+connection string text file: connectionstringdav.txt
+
+
+
+===JP-STORE===
+
+Database: 
+vehicledb
+admin
+serveradmin
+
+IP Address: 192.168.13.131
+Anydesk: milaor-server@ad
+connection string text file: connectionstringmil.txt
+
+
+
+===MOTORPOOL MOBILE APP===
+connectionstringms.txt = API
+
+
+
+===DASHBOARD and SAP===
+cnstringdashboard.txt
+
+
+
+===Default connectionstring===
+cnstring.txt - for auto updater, where the new version is coming from.

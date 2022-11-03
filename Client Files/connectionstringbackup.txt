@@ -1,0 +1,1 @@
+Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=vehicledb;Data Source=192.168.12.130,1433
